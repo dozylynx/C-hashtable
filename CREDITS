@@ -21,5 +21,5 @@ web page, where the same key struct was used for insertion into the hashtable,
 and then also for retrieval. Ownership of the key is claimed when it is 
 inserted.
 
-Christopher Clark <http://www.cl.cam.ac.uk/~cwc22/>
-Updated 29th April, 2007.
+Christopher Clark <http://github.com/dozylynx/>
+Updated 21st July, 2013. Previously updated 29th April, 2007.

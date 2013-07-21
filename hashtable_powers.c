@@ -1,4 +1,4 @@
-/* Copyright (C) 2002 Christopher Clark * <firstname.lastname@cl.cam.ac.uk> */
+/* Copyright (C) 2002 Christopher Clark * <christopher.w.clark[at] gmail > */
 
 #include "hashtable.h"
 #include "hashtable_private.h"

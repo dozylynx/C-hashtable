@@ -1,7 +1,10 @@
 # Makefile for C hashtable
 # Copyright (c) 2002, 2004, 2013, Christopher Clark
 #
+# Now at: https://github.com/dozylynx/C-hashtable
+#
 # Formerly at: http://www.cl.cam.ac.uk/~cwc22/hashtable/
+# archived at: http://web.archive.org/web/20101119053156/http://www.cl.cam.ac.uk/~cwc22/hashtable/
 
 tester: hashtable.o tester.o hashtable_itr.o
 	gcc -g -Wall -O -o tester hashtable.o hashtable_itr.o tester.o -lm

@@ -1,4 +1,4 @@
-/* Copyright (C) 2002 Christopher Clark <firstname.lastname@cl.cam.ac.uk> */
+/* Copyright (C) 2002 Christopher Clark <christopher.w.clark[at] gmail > */
 
 #ifndef __HASHTABLE_CWC22_UTILITY_H__
 #define __HASHTABLE_CWC22_UTILITY_H__
